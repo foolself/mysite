@@ -1,0 +1,11 @@
+dj-database-url==0.3.0
+#gameobjects==0.0.3
+gunicorn==19.3.0
+#matplotlib==1.4.3
+py-oauth2==0.0.10
+pyoauth2==0.0.4
+requests==2.6.0
+six==1.9.0
+whitenoise==1.0.6
+psycopg2==2.5.4
+django-pagination-py3==1.1.1
